@@ -25,12 +25,6 @@ The analysis helps compare yearly sales performance and understand changes in **
 
 ## 📊 Dashboard Preview
 
-The Excel dashboard provides an interactive **year-wise mobile sales report for 2021–2024**.
+[📥 Download Dashbord Dashboard (.xlsx)]()
 
-The dashboard helps users compare yearly performance using KPIs, charts, Pivot Tables, and interactive filters.
-
-
-
-
-
-
+![Mobile Sales dashbord]()
