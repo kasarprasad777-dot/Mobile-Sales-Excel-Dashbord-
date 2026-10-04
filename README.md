@@ -23,6 +23,13 @@ The analysis helps compare yearly sales performance and understand changes in **
 * **File Format:** Excel (`.xlsx`)
 * **Source:** [📥 View / Download Dataset](https://github.com/kasarprasad777-dot/Mobile-Sales-Excel-Dashbord-/blob/main/Mobile%20Sales%20Data.xlsx)
 
+## 📊 Dashboard Preview
+
+The Excel dashboard provides an interactive **year-wise mobile sales report for 2021–2024**.
+
+The dashboard helps users compare yearly performance using KPIs, charts, Pivot Tables, and interactive filters.
+
+
 
 
 
