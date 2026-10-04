@@ -16,4 +16,12 @@ The analysis helps compare yearly sales performance and understand changes in **
 * Excel Dashboard
 * Slicers & Filters
 
+## 📂 Data Source
+* **Data Period:** 2021–2024
+* **Total Records:** 3,835 transactions
+* **Total Columns:** 12
+* **File Format:** Excel (`.xlsx`)
+* **Source:** 
+
+
 
